@@ -7,7 +7,6 @@ for (let i = 0; i < 30; i++) {
     heart.style.opacity = Math.random();
     document.body.appendChild(heart);
 }
-
 // Surprise popup
 function showSurprise() {
     alert("🎉 Surprise! I love you more with each passing day. Let's make this birthday unforgettable! 💖");
